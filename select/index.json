@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "the cutest pair",
+  "base_artist": "Regina Song",
+  "createdAt": "2026-03-24T22:46:52.430549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "the cutest pair",
+      "artist": "Regina Song",
+      "has_synced": true,
+      "path": "select/01_the_cutest_pair_Regina_Song.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Regina Song - The Cutest Pair (Lyrics)",
+      "artist": "Inluv",
+      "has_synced": true,
+      "path": "select/02_Regina_Song_-_The_Cutest_Pair_(Lyrics)_Inluv.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "the cutest pair",
+      "artist": "Regina Song",
+      "has_synced": true,
+      "path": "select/03_the_cutest_pair_Regina_Song.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "the cutest pair",
+      "artist": "Regina Song",
+      "has_synced": true,
+      "path": "select/04_the_cutest_pair_Regina_Song.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "the cutest pair",
+      "artist": "Regina Song - Topic",
+      "has_synced": true,
+      "path": "select/05_the_cutest_pair_Regina_Song_-_Topic.lrc"
+    }
+  ]
+}
